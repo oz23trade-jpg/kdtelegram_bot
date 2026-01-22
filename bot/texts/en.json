@@ -1,0 +1,14 @@
+{
+  "welcome_new": "🚀 Welcome to K DoCripto!\n\nLearn crypto step by step, earn points 🎯 and join weekly lotteries 🎰.\n\nChoose your language:",
+  "welcome_back": "👋 Welcome back, {name}!\n\nReady to earn more today?",
+  "language_set": "✅ Language set to English!",
+  "main_menu": "🏠 Main Menu\n\nWhat would you like to do?",
+  "learning": "📚 Learning\n\nStart with the basics and grow your crypto knowledge.",
+  "earn": "💰 Earn\n\nComplete tasks, quizzes and invite friends.",
+  "quiz": "🧠 Quiz\n\nTest your knowledge and earn rewards.",
+  "lottery": "🎰 Lottery\n\nMore tickets = higher chances to win.",
+  "referrals": "👥 Referrals\n\nInvite friends and earn together.",
+  "support": "❤️ Support Project\n\nBuy us a coffee ☕ and get bonus tickets!",
+  "profile": "👤 Profile\n\nPoints: {points}\nTickets: {tickets}\nReferrals: {referrals}",
+  "help": "❓ Help\n\nNeed assistance? Contact support."
+}
